@@ -1,7 +1,7 @@
-# MOS
-## The Original Mopperating System
+# Potatis-MOS
+## The (Almost) Original Mopperating System
 
-A small x86 based operating system that currently does nothing. Run `make run` on 
+A small x86 based operating system that currently does nothing (except having a cool name). Run `make run` on 
 linux to assemble and run the boot sector.
 
 ### Disclaimer
